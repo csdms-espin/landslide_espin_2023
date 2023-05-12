@@ -1,0 +1,1 @@
+This file has been created just for pushing the result folder to GitHub. We can not push empty folders.
