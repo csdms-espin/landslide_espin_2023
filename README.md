@@ -1,5 +1,11 @@
 # ESPIn Landslide
 
+## Key Concepts
+- Relationship between vegetation and soil properties to slope cohesion
+- Relationship between cohesion and failure probability 
+- Factor of Safety and Susceptibility 
+- Application Question: How might wildfire impact slope stability?
+
 ## Literature References
 
 ### Landlab and associated models
