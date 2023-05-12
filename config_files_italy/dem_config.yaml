@@ -1,0 +1,8 @@
+bmi-topography:
+  dem_type: 'SRTMGL3'
+  south: 43.0
+  north: 44.5
+  west: 10.5
+  east: 12.0
+  output_format: GTiff
+  cache_dir: "./cache_italy"
