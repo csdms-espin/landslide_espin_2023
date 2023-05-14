@@ -27,3 +27,9 @@
 - Masi EB, Segoni S, Tofani V (2021) Root Reinforcement in Slope Stability Models: A Review. Geosciences 11:212. https://doi.org/10.3390/geosciences11050212
 
 - Masi EB, Tofani V, Rossi G, Cuomo S, Wu W, Salciarini D, Caporali E, Catani F (2023) Effects of roots cohesion on regional distributed slope stability modelling. CATENA 222:106853. https://doi.org/10.1016/j.catena.2022.106853
+
+### Landslide inventory of Tuscany area
+
+- https://idrogeo.isprambiente.it/app/page/open-data
+
+- https://idrogeo.isprambiente.it/app/iffi?
