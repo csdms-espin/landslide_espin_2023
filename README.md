@@ -28,6 +28,10 @@
 
 - Masi EB, Tofani V, Rossi G, Cuomo S, Wu W, Salciarini D, Caporali E, Catani F (2023) Effects of roots cohesion on regional distributed slope stability modelling. CATENA 222:106853. https://doi.org/10.1016/j.catena.2022.106853
 
+- Conti P, Cornamusini G, Carmignani L (2020) An outline of the geology of the Northern Apennines (Italy), with geological map at 1:250,000 scale. Ital J Geosci 139:149–194. https://doi.org/10.3301/IJG.2019.25
+
+- Conti P, Lazzarotto A (2004) Geology of Tuscany: evolution of the state-of-knowledge presented by geological maps and the new geological map of Tuscany, 1: 250,000 scale. ‘Regione Toscana’project Geol mapping, Spec vol 32nd IGC 25–50. https://www.pconti.net/doc/conti-lazzarotto.pdf
+
 ### Landslide inventory of Tuscany area
 
 - https://idrogeo.isprambiente.it/app/page/open-data
