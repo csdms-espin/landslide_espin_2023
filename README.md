@@ -52,4 +52,4 @@ This repository has been created by Ashanie Long-Reid (longrea@wwu.edu), Estefan
 
 ### Acknowledgements:
 
-We would like to thank ESPIn 2023 mentors and advisors for helping us at each stage of this project. We have also used the code created by Tian Gan. We want to thank her for solving our questions. 
+We would like to thank ESPIn 2023 mentors and advisors for helping us at each stage of this project. We have also used the code created by Tian Gan. We want to thank her for solving our queries.
