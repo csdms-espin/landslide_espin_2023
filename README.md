@@ -46,6 +46,6 @@
 - https://idrogeo.isprambiente.it/app/iffi?
 
 
-Acknowledgements:
+### Acknowledgements:
 
-This repository has been created by Ashanie Long-Reid, Estefania Roldan-Nicolau, Sarah Williams, Selina Davila Olivera and Sharad Kumar Gupta as part of Earth Surface Project Institute (ESPIn) 2023 held at University of Colorado Boulder, USA during May 08 - 15, 2023. 
+This repository has been created by Ashanie Long-Reid (longrea@wwu.edu), Estefania Roldan-Nicolau (estefania.nicolau@ucalgary.ca), Sarah Williams (sarah.g.williams@vanderbilt.edu), Selina Davila Olivera (sdavilao@uoregon.edu) and Sharad Kumar Gupta (sharadgupta@tauex.tau.ac.il) as part of Earth Surface Project Institute (ESPIn) 2023 held at University of Colorado Boulder, USA during May 08 - 15, 2023. All the team members have contributed equally for developing this repository.
