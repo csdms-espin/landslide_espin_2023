@@ -44,3 +44,8 @@
 - https://idrogeo.isprambiente.it/app/page/open-data
 
 - https://idrogeo.isprambiente.it/app/iffi?
+
+
+Acknowledgements:
+
+This repository has been created by Ashanie Long-Reid, Estefania Roldan-Nicolau, Sarah Williams, Selina Davila Olivera and Sharad Kumar Gupta as part of Earth Surface Project Institute (ESPIn) 2023 held at University of Colorado Boulder, USA during May 08 - 15, 2023. 
