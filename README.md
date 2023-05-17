@@ -1,6 +1,6 @@
 # ESPIn Landslide
 
-[jhub]: https://csdms.colorado.edu/wiki/JupyterHub
+[jhub]: https://img.shields.io/badge/jupyter-%23FA0F00.svg
 [badge]: https://img.shields.io/badge/Run%20on-EarthscapeHub-orange
 [ehub-link]: https://lab.openearthscape.org/hub/user-redirect/git-pull?repo=https://github.com/csdms-espin/landslide_espin_2023&urlpath=lab/tree/landslide_espin_2023/Landslide_Italy/ESPIn_landslide_2023.ipynb
 [jhub-link]: https://jupyter.openearthscape.org/hub/user-redirect/git-pull?repo=https://github.com/csdms-espin/landslide_espin_2023&urlpath=lab/tree/landslide_espin_2023/Landslide_Italy/ESPIn_landslide_2023.ipynb
