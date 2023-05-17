@@ -1,5 +1,7 @@
 # ESPIn Landslide
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com//csdms-espin/landslide_espin_2023]
+
 ## Key Concepts
 - Relationship between vegetation and soil properties to slope cohesion
 - Relationship between cohesion and failure probability 
