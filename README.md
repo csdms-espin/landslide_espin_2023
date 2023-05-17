@@ -2,8 +2,10 @@
 
 [jhub]: https://csdms.colorado.edu/wiki/JupyterHub
 [badge]: https://img.shields.io/badge/Run%20on-EarthscapeHub-orange
+
 This lessons can be run on [EarthscapeHub][jhub]. Click the button below:
 [jhub-link]: https://lab.openearthscape.org/hub/user-redirect/git-pull?repo=https://github.com/csdms-espin/landslide_espin_2023&urlpath=lab/tree/landslide_espin_2023/Landslide_Italy/ESPIn_landslide_2023.ipynb
+
 [![Run on EarthscapeHub][badge]][jhub-link]
 
 ## Key Concepts
