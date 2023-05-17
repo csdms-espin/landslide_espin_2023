@@ -2,9 +2,11 @@
 
 [jhub]: https://csdms.colorado.edu/wiki/JupyterHub
 [badge]: https://img.shields.io/badge/Run%20on-EarthscapeHub-orange
-[jhub-link]: https://lab.openearthscape.org/hub/user-redirect/git-pull?repo=https://github.com/csdms-espin/landslide_espin_2023&urlpath=lab/tree/landslide_espin_2023/Landslide_Italy/ESPIn_landslide_2023.ipynb
+[ehub-link]: https://lab.openearthscape.org/hub/user-redirect/git-pull?repo=https://github.com/csdms-espin/landslide_espin_2023&urlpath=lab/tree/landslide_espin_2023/Landslide_Italy/ESPIn_landslide_2023.ipynb
+[jhub-link]: https://jupyter.openearthscape.org/hub/user-redirect/git-pull?repo=https://github.com/csdms-espin/landslide_espin_2023&urlpath=lab/tree/landslide_espin_2023/Landslide_Italy/ESPIn_landslide_2023.ipynb
 
-[![Run on EarthscapeHub][badge]][jhub-link]
+[![Run on EarthscapeHub][badge]][ehub-link]
+[![Run on JupyterHub][badge]][jhub-link]
 
 ## Key Concepts
 - Relationship between vegetation and soil properties to slope cohesion
